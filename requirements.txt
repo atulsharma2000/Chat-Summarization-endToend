@@ -1,0 +1,22 @@
+transformers  # Hugging Face library for state-of-the-art NLP models
+transformers[sentencepiece]  # Load the SentencePiece model for tokenization
+datasets  # Library for loading and processing datasets for ML tasks
+sacrebleu  # Evaluation library for machine translation (BLEU score)
+rouge_score  # Evaluation metrics for summarization (ROUGE scores)
+py7zr  # Library for handling 7z compressed files
+pandas  # Data manipulation and analysis library (DataFrames)
+nltk  # Natural Language Toolkit for working with human language data
+tqdm  # Library for creating progress bars in Python applications
+PyYAML  # YAML parser and emitter for configuration files
+matplotlib  # Plotting library for creating visualizations
+
+notebook  # Jupyter Notebook for creating and sharing documents with live code
+boto3  # AWS SDK for Python to interact with AWS services (like S3)
+mypy-boto3-s3  # Type stubs for Boto3 specifically for S3 service
+python-box  # Dictionary-like object with dot notation access
+ensure  # Library for type checking and validation (ensure correctness)
+fastapi  # Modern web framework for building APIs with Python
+uvicorn  # ASGI server implementation for running FastAPI applications
+Jinja2  # Templating engine for dynamic HTML pages in web frameworks
+
+-e .  # Install the local package in editable mode (for development)
